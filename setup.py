@@ -7,6 +7,4 @@ setup(name='playlistula',
       author='Sean Fogle',
       author_email='sean.fogle@gmail.com',
       license='GPL v2',
-      install_requires=[
-          'requests',
-      ])
+      )
